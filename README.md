@@ -118,3 +118,5 @@ The React app will run on `http://localhost:5173/`.
 
               ![Vite + React and 6 more pages - Personal - Microsoft​ Edge 18-11-2024 12_28_57](https://github.com/user-attachments/assets/e5e95192-ee89-48e3-bf06-5d6adae7e56d)
 
+              ![Vite + React and 6 more pages - Personal - Microsoft​ Edge 18-11-2024 12_28_52](https://github.com/user-attachments/assets/c216f26d-b47f-4258-b467-c8a9f7be6c9d)
+
